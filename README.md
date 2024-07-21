@@ -2,7 +2,7 @@
 
 ## Hi, I'm Ajith K. S. 👋
 
-### 📝 About me
+### 📝 About Me
 
 I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
 
@@ -10,7 +10,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 [![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith_K._S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
 
-### 🙋‍♂️ Contact me
+### 🙋‍♂️ Contact Me
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi)
 [![Mail Badge](https://img.shields.io/badge/-Ajith_K_S-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt)
@@ -63,14 +63,14 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 <br/> -->
 
-### ⭐ My stats
+### ⭐ My Stats
 
 <div align="center">
 <img alt="Ajith's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ajith369369&show_icons=true&theme=default"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith369369&layout=compact&&langs_count=8"/>
 </div>
 
-### 👁️‍🗨️ Profile views counter
+### 👁️‍🗨️ Profile Views Counter
 
 [![Ajith K. S. profile views](https://u8views.com/api/v1/github/profiles/127725288/views/day-week-month-total-count.svg)](https://u8views.com/github/Ajith369369)
 
