@@ -2,13 +2,13 @@
 
 ## Hi, I'm Ajith K. S. 👋
 
-### 📝 About me:
+### 📝 About me
 
 I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
 
-My Portfolio:
+### My Portfolio
 
-[![Portfólio Badge](https://img.shields.io/badge/Portfolio-edlavio.eu.org-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
+[![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith-K.-S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
 
 ### :mailbox: Reach me out!
 
