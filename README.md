@@ -57,7 +57,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 ### My stats ⭐
 
 <div align="center">
-<img alt="Ajith's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ajith369369&show_icons=true&theme=transparent"/>
+<img alt="Ajith's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ajith369369&show_icons=true&theme=default"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith369369&layout=compact&&langs_count=8"/>
 </div>
 
