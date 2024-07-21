@@ -45,7 +45,7 @@ I'm Ajith K. S., a passionate and detail-oriented Web Developer with a keen eye 
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Ajith369369)
+[![Ajith K. S. profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/Ajith369369)
 
 
 [reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
