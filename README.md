@@ -1,6 +1,6 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
-### Hi, I'm Ajith 👋
+## Hi, I'm Ajith 👋
 
 I'm Ajith K. S., a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
 
@@ -9,6 +9,9 @@ I'm Ajith K. S., a passionate and detail-oriented Web Developer with a keen eye 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi) 
 [![Mail Badge](https://img.shields.io/badge/-Ajith_K_S-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt) 
 [![Mail Badge](https://img.shields.io/badge/-Travels_And_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@TravelsCode?si=YETDFWm1lvKodZW9) --> 
+<a href="https://www.linkedin.com/in/ajith-k-s/" target="_blank">
+  <img src="https://img.shields.io/badge/-Ajith_K_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge">
+</a>
 [![Linkedin Badge](https://img.shields.io/badge/-Ajith_K_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-k-s/) 
 [![Mail Badge](https://img.shields.io/badge/-@Ajith_K_S-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ajithks98086/) 
 [![Mail Badge](https://img.shields.io/badge/-Ajith_K_S-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ajithks98086@gmail.com)
