@@ -1,5 +1,3 @@
-<!-- ## Hi there 👋 -->
-
 ## Hi, I'm Ajith K. S. 👋
 
 ### 📝 About Me
@@ -11,13 +9,6 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 [![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith_K._S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
 
 ### 🙋‍♂️ Contact Me
-
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@MaksymRudnyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://twitter.com/MaksymRudnyi)
-[![Mail Badge](https://img.shields.io/badge/-Ajith_K_S-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@MaksymRudnyi?si=rYeYSkEaREqugOCt)
-[![Mail Badge](https://img.shields.io/badge/-Travels_And_Code-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@TravelsCode?si=YETDFWm1lvKodZW9) -->
-<!-- <a href="https://www.linkedin.com/in/ajith-k-s/" target="_blank">
-  <img src="https://img.shields.io/badge/-Ajith_K_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge">
-</a> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ajith_K_S-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-k-s/)
 [![Mail Badge](https://img.shields.io/badge/-@Ajith_K_S-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ajithks98086/)
@@ -49,14 +40,6 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
  <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-<!-- ### Tutorials
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
-
-<br/> -->
-
 <!-- ### Bizness
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
 - :email: ajithks98086@gmail.com
@@ -74,23 +57,4 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 [![Ajith K. S. profile views](https://u8views.com/api/v1/github/profiles/127725288/views/day-week-month-total-count.svg)](https://u8views.com/github/Ajith369369)
 
-<!-- [React Playlist](https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P) -->
 
-<!--
-**Ajith369369/Ajith369369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-git remote add origin https://github.com/Ajith369369/Ajith369369.git
--->
