@@ -17,7 +17,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 [![Mail Badge](https://img.shields.io/badge/-@Ajith_K_S-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ajithks98086/)
 [![Mail Badge](https://img.shields.io/badge/-Ajith_K_S-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ajithks98086@gmail.com)
 
-#### Top Technologies
+### Top Technologies
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
