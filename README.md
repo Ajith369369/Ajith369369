@@ -8,7 +8,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 ### My Portfolio
 
-[![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith-K.-S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
+[![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith_K._S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
 
 ### :mailbox: Reach me out!
 
