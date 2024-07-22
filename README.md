@@ -6,7 +6,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 ### 📂 My Portfolio
 
-[![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith_K._S.-0077B5?style=flat-square&logo=ghostery&logoColor=white)](https://ajith369369.github.io/portfolio/)
+[![Portfólio Badge](https://img.shields.io/badge/Portfolio-Ajith_K._S.-0077B5?style=flat-square&logoColor=white)](https://ajith369369.github.io/portfolio/)
 
 ### 🙋‍♂️ Contact Me
 
@@ -32,8 +32,7 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;&nbsp;
 
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> -->
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
