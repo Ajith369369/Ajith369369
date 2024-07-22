@@ -35,7 +35,6 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> -->
 
-
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) -->
 
 <!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) -->
@@ -60,5 +59,3 @@ I'm a passionate and detail-oriented Web Developer with a keen eye for creating 
 ### 👁️‍🗨️ Profile Views Counter
 
 [![Ajith K. S. profile views](https://u8views.com/api/v1/github/profiles/127725288/views/day-week-month-total-count.svg)](https://u8views.com/github/Ajith369369)
-
-
