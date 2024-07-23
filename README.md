@@ -1,6 +1,6 @@
 ## Hi, I'm Ajith K. S. 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira&weight=800&size=50&pause=1000&color=14BBFF&center=true&vCenter=true&width=300&height=80&lines=Hi%2C+I'm+Ajith+K.+S.+%F0%9F%91%8B;I'm+a+ME(A)RN-Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira&weight=800&size=45&pause=1000&color=14BBFF&center=true&vCenter=true&height=80&lines=Hi%2C+%F0%9F%91%8B;I'm+Ajith+K.+S.;I'm+a;ME(A)RN-Stack;Web+Developer)](https://git.io/typing-svg)
 
 ### 📝 About Me
 
