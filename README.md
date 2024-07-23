@@ -1,4 +1,4 @@
-## Hi, I'm Ajith K. S. 👋
+<!-- ## Hi, I'm Ajith K. S. 👋 -->
 
 <!-- <h1 align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira&weight=800&size=45&pause=1000&color=14BBFF&center=true&vCenter=true&height=80&lines=Hi%2C+%F0%9F%91%8B;I'm+Ajith+K.+S.;I'm+a;ME(A)RN-Stack;Web+Developer)](https://git.io/typing-svg)
