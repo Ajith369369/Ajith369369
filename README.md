@@ -6,10 +6,6 @@
 
 ### 📝 About Me
 
-<div style="text-align: justify;">
-I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
-</div>
-
 <p align="justify">
 I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
 </p>
