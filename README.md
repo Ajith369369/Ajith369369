@@ -4,6 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=fira&weight=800&size=45&pause=1000&color=14BBFF&center=true&vCenter=true&height=80&lines=Hi%2C+%F0%9F%91%8B;I'm+Ajith+K.+S.;I'm+a;ME(A)RN-Stack;Web+Developer)](https://git.io/typing-svg)
 </h1> -->
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=fira&weight=800&size=45&pause=1000&color=14BBFF&center=true&vCenter=true&height=80&lines=Hi%2C+%F0%9F%91%8B;I'm+Ajith+K.+S.;I'm+a;ME(A)RN-Stack;Web+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
 ### 📝 About Me
 
 I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
