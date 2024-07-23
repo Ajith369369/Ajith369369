@@ -1,5 +1,7 @@
 ## Hi, I'm Ajith K. S. 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira&weight=800&size=50&pause=1000&color=14BBFF&center=true&vCenter=true&width=300&height=80&lines=Hi%2C+I'm+Ajith+K.+S.+%F0%9F%91%8B;I'm+a+ME(A)RN-Stack+Web+Developer)](https://git.io/typing-svg)
+
 ### 📝 About Me
 
 I'm a passionate and detail-oriented Web Developer with a keen eye for creating seamless, innovative, and user-centric digital experiences. My journey into web development began with a fascination for how things work on the web. Over the years, this curiosity has evolved into a deep understanding of the full development lifecycle, from initial concept through deployment and optimization. Whether it's developing responsive front-end designs, creating efficient back-end solutions, or ensuring top-notch performance and security, I thrive on solving complex challenges and turning ideas into reality.
